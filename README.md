@@ -18,3 +18,6 @@ npm i ts-node-dev -D
 npx knex migrate:latest --knexfile knexfile.ts migrate:latest
 
 	Roda as migrations utilizando o knexfile indicado
+
+
+Seeds -> Dados pré cadastrados dentro do banco de dados
