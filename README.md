@@ -25,3 +25,5 @@ Seeds -> Dados pré cadastrados dentro do banco de dados
 Serialização de dados -> Transforma os dados pra um novo formato
 
 Transaction -> Faz com que duas chamadas de querie criem dependencia uma da outra, caso uma falhe, ela não executa a proxima
+
+Patterns de Controller -> Index, Show, Create, Update, Delete
