@@ -31,3 +31,5 @@ Patterns de Controller -> Index, Show, Create, Update, Delete
 Query Params -> Filtro, paginação...
 Request Body -> Preencher dados de criacao e edicao
 Request Params ->  Algo na rota, obrigatorio
+
+Cors -> Define quais endereços externos vao ter acesso a aplicacao(urls web)
