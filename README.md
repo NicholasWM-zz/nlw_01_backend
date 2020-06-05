@@ -22,4 +22,6 @@ npx knex migrate:latest --knexfile knexfile.ts migrate:latest
 
 Seeds -> Dados pré cadastrados dentro do banco de dados
 
-Serializaçõ de dados -> Transforma os dados pra um novo formato
+Serialização de dados -> Transforma os dados pra um novo formato
+
+Transaction -> Faz com que duas chamadas de querie criem dependencia uma da outra, caso uma falhe, ela não executa a proxima
