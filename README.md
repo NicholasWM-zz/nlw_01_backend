@@ -21,3 +21,5 @@ npx knex migrate:latest --knexfile knexfile.ts migrate:latest
 
 
 Seeds -> Dados pré cadastrados dentro do banco de dados
+
+Serializaçõ de dados -> Transforma os dados pra um novo formato
