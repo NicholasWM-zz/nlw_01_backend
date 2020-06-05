@@ -14,3 +14,7 @@ npx tsc --init
 npm i ts-node-dev -D
 
 	Equivalente ao nodemon
+
+npx knex migrate:latest --knexfile knexfile.ts migrate:latest
+
+	Roda as migrations utilizando o knexfile indicado
